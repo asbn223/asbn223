@@ -202,7 +202,7 @@ final Map<String, dynamic> sabin = {
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asbn223&theme=graywhite&count_private=true" alt="asbn223" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asbn223&theme=graywhite&count_private=true" alt="asbn223" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asbn223" alt="asbn223" /></a> </p>
 
