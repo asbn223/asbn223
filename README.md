@@ -1,46 +1,45 @@
-<p align="center">
-  <img style="width:8rem; height:auto" src="https://cdn.dribbble.com/users/1787323/screenshots/10091971/media/d43c019bfeff34be8816481e843ea8c1.png"/>
+<h1 align="center">Hi 👋, I'm Sabin Nakarmi</h1>
+<h3 align="center">A Full Stack Developer (Flutter {Mobile + Web} & Django)</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=asbn223&label=Profile%20views&color=0e75b6&style=flat" alt="asbn223" /> </p>
+
+
+- 🔭 I’m currently working at [byteRays Technology](https://byterays.com/)
+
+- 💬 Ask me about **Flutter and Django, Anime.**
+
+- 📫 How to reach me **asbn2231@gmail.com**
+
+- ⚡ Fun fact **What I do will be done.**
+
+#### A little more about me
+```dart
+final Map<String, dynamic> sabin = {
+  "pronouns": "He" | "Him",
+  "mainCodeBase": ["Flutter", "Python", "Django"],
+  "askMeAbout": {
+    "fullStackDev" : ["web app dev", "mobile app dev", "backend dev"]
+    },
+  "technologies": {
+      "frontend": ["Flutter"],
+      "backend": ["Flask", "Django"],
+  }
+}
+```
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sabin-nakarmi-57541317b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sabin-nakarmi-57541317b/" height="30" width="40" /></a>
+<a href="https://instagram.com/sabin.nakarmi223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sabin.nakarmi223" height="30" width="40" /></a>
 </p>
-
-<h1 align="center">Hi, I'm Sabin Nakarmi<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
-<h3 font-size="20" align="center">Full Stack Developer (Flutter + Django)</h3>
-
-
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
-
-- 👯 I’m looking to collaborate on **Spring Framework**
-
-- 🤝 I’m looking for help with **Backend Design**
-
-- 💬 Ask me about **System Designs and Philosophy 😆**
-
-- ⚡ Fun fact **Coding is a passion and not profession.**
-
-
----
-
-
-<h2 align="center"><u><b>Knowledge Base</b></u></h2>
-
-<iframe src="https://giphy.com/embed/USV0ym3bVWQJJmNu3N" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N">via GIPHY</a></p>
-
-<p align="center">
-  <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
-</p>
-
-<p align="center">
-  <img style="width:26rem; height:auto" src="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N"/>
-</p>
+<br>
+<p align="center"><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="asbn223" /></p>
 
 <h3 align="center">Languages</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
       alt="c"/>
-  </a>
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
-      alt="java"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
@@ -54,27 +53,25 @@
     <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
       alt="css3"/>
   </a>
-  <a href="https://www.typescriptlang.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/typescript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"
-      alt="typescript"/>
+  <a href="https://dart.dev/" target="_blank"> 
+    <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"
+      alt="Dart"/>
+  </a>
+  <a href="https://python.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"
+      alt="Dart"/>
   </a>
 </p>
 
 <h3 align="center">Frontend</h3>
 <p align="center">
+     <a href="https://flutter.dev/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"
+      alt="Flutter"/>
+  </a>
       <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="bootstrap"/>
-  </a>
-  <a href="https://babeljs.io/" target="_blank">
-    <img src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" alt="babel"/> 
-  </a>
-  <a href="https://bulma.io/" target="_blank">
-    <img src="https://img.shields.io/badge/bulma-00D1B2.svg?style=for-the-badge&logo=bulma&logoColor=white"
-      alt="bulma"/>
-  </a>
-  <a href="https://www.gatsbyjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/gatsbyjs-663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby" />
   </a>
   <a href="https://reactjs.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
@@ -86,40 +83,20 @@
   <a href="https://jquery.com/" target="_blank">
     <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
   </a>
-  <a href="https://webpack.js.org" target="_blank">
-    <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
-      alt="webpack"/>
-  </a>
 </p>
 
 <h3 align="center">Backend</h3>
 <p align="center">
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
-      alt="nodejs"/> 
+  <a href="https://www.django-rest-framework.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"
+      alt="DRF"/> 
   </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
-      alt="express" />
-  <a href="https://hibernate.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate " /> 
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"
+         alt="FastAPI" /></a>
+  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> 
+    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask " /> 
   </a>
-    <a href="https://spring.io/" target="_blank"> 
-      <img src="https://img.shields.io/badge/spring%20IOC-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" /> 
-  </a>
-  <a href="https://spring.io/" target="_blank"> 
-    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
-  </a>
-  <a href="https://graphql.org" target="_blank">
-    <img src="https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
-  </a>
-  <a href="https://kubernetes.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white" 
-      alt="nginx"/> 
-  </a> 
 </p>
 
 <h3 align="center">Database</h3>
@@ -128,25 +105,18 @@
     <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
       alt="postgresql"/> 
   </a>
-  <a href="https://redis.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
-      alt="redis"/>
+  <a href="https://www.mysql.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"
+      alt="mysql"/>
   </a>
   <a href="https://www.sqlite.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
       alt="sqlite"/> 
   </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb"/> 
-  </a> 
 </p>
 
 <h3 align="center">Cloud & Hosting:</h3>
 <p align="center">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank">
-    <img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/> 
-  </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
   </a>
@@ -165,8 +135,17 @@
     <img src="https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"
       alt="selenium" /> 
   </a> 
-  <a href="https://junit.org/junit5/" target="_blank"> 
-    <img src="https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="junit5" /> 
+</p>
+
+<h3 align="center">ML</h3>
+<p align="center"> 
+  <a href="https://pandas.pydata.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"
+      alt="pandas" /> 
+  </a>
+   <a href="https://opencv.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"
+      alt="opencv" /> 
   </a> 
 </p>
 
@@ -183,19 +162,15 @@
     <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="git"/>
   </a>
-    <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
-      alt="docker"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
-  </a>
 </p>
 
 <h3 align="center">Preferred IDEs  & Tools :</h3>
 <p align="center"> 
-  <a href="https://eclipse.org" target="_blank">
-    <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/> 
+  </a>
+   <a href="https://www.android.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/> 
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
@@ -203,86 +178,42 @@
   <a href="https://www.jetbrains.com/" target="_blank">
     <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
   </a>
+   <a href="https://www.jetbrains.com/pycharm/" target="_blank">
+    <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="pycharm" />
+  </a>
+   <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=black&color=black&labelColor=red" alt="Android%20Studio" />
+  </a>
   <a href="https://postman.com" target="_blank"> 
     <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
   </a>
-  <a href="https://www.virtualbox.org/" target="_blank">
-    <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
-      alt="virtualbox"/>
+</p>
+
+<h3 align="center">Design:</h3>
+<p align="center"> 
+  <a href="https://www.adobe.com/products/xd.html" target="_blank">
+    <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe%20XD"/> 
   </a>
-  <a href="https://ubuntu.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
+   <a href="https://www.figma.com/" target="_blank">
+    <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/> 
+  </a>
+  <a href="https://www.invisionapp.com/" target="_blank">
+    <img src="https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white" alt="invision"/> 
   </a>
 </p>
 
-----
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asbn223&theme=graywhite&count_private=true" alt="asbn223" /></p>
 
-<h3 align="center">Connect with me</h3>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asbn223" alt="asbn223" /></a> </p>
 
-<div style="margin-top:10px" align="center">
-  <div>
-    <a  href="https://dev.to/example" target="_blank">
-      <img src="https://img.shields.io/badge/DEV.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://medium.com/@example" target="_blank">
-      <img src="https://img.shields.io/badge/medium-000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://codepen.io/@example" target="_blank">
-      <img src="https://img.shields.io/badge/Codepen-000000.svg?style=for-the-badge&logo=codepen&logoColor=white" alt="example"/>
-    </a>
-  </div>
-  <div>
-    <a  href="https://linkedin.com/in/example" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://twitter.com/example" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://dribbble.com/example" target="_blank">
-      <img src="https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=black" alt="example"/>
-    </a>
-  </div>
-  <div>
-    <a  href="https://www.codechef.com/users/example" target="_blank">
-      <img src="https://img.shields.io/badge/Codechef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white" alt="example"/>
-    </a>
-    <a href="https://www.hackerrank.com/example" target="_blank">
-      <img src="https://img.shields.io/badge/Hackerrank-00EA64.svg?style=for-the-badge&logo=hackerrank&logoColor=black" alt="example"/>
-    </a>
-    <a href="https://www.leetcode.com/example" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>
-    </a>
-  </div>
-</div>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asbn223&show_icons=true&count_private=true&theme=moltack&include_all_commits=true" alt="asbn223" /></p>
 
-<h3 align="center">Reach me</h3>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asbn223&theme=github-light&date_format=M%20j%5B%2C%20Y%5D" alt="asbn223" /></p>
 
-<p align="center">
-  <a  href="https://t.me/example" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
-  </a>
-  <a href="mailto:example@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
-  </a>
-</p>
-
-----
-
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=elanza-48&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Elanza-48)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=elanza-48&theme=material-palenight)](https://github.com/Elanza-48)
-</div>
-
-----
+#### Contribution Graph
+![Sabin Nakarmi's github activity graph](https://activity-graph.herokuapp.com/graph?username=asbn223&theme=github-light)
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
     alt="example" />
 </p>
-
-------
-Credit: [Elanza-48](https://github.com/Elanza-48)
-
-Last Edited on: 09/09/2021
